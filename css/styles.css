@@ -1,14 +1,14 @@
 .intro{
   text-align: center;
 }
-h2.intro{
+.intro h2{
   color: blue;
   text-decoration: underline;
 }
-p.intro{
+.intro p{
   font-style: italic;
 }
-img.intro{
+.intro img{
   display: block;
   margin: auto;
   border: 5px solid black;
